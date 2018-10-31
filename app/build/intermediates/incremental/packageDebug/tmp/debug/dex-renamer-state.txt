@@ -1,0 +1,4 @@
+#Wed Oct 31 15:14:09 CST 2018
+base.0=C\:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

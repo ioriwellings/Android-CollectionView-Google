@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,2,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,60,16",
+                        "endColumns": "43,44,43",
+                        "endOffsets": "144,100,55"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,144",
+                        "endColumns": "43,44,43",
+                        "endOffsets": "94,139,183"
+                    }
+                }
+            ]
+        }
+    ]
+}

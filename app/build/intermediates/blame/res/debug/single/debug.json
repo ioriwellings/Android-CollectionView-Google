@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_collection_fragment_collection.xml.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\layout\\sample_collection_fragment_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_collection_list_item.xml.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\layout\\sample_collection_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_collection_activity_main.xml.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\layout\\sample_collection_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_collection_list_item_hero.xml.flat",
+        "source": "C:\\Users\\bosd\\Downloads\\RecyclerPinnedHeader-master\\Android-CollectionView-master\\app\\src\\main\\res\\layout\\sample_collection_list_item_hero.xml"
+    }
+]

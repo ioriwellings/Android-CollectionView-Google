@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_dark">#0099CC</color>
+    <color name="blue_light">#33B5E5</color>
+    <color name="card_gray">#E5E5E5</color>
+    <declare-styleable name="CollectionView"><attr format="dimension" name="internalPadding"/><attr format="dimension" name="contentTopClearance"/></declare-styleable>
+</resources>
